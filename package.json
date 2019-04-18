@@ -1,0 +1,27 @@
+{
+  "name": "15",
+  "version": "1.0.0",
+  "description": "books service",
+  "main": "books_service.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uacs337spring2019/final-project-test.git"
+  },
+  "keywords": [
+    "books"
+  ],
+  "author": "Allison",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uacs337spring2019/final-project-test/issues"
+  },
+  "homepage": "https://github.com/uacs337spring2019/final-project-test#readme"
+}
